@@ -6,7 +6,6 @@ import java.util.concurrent.Executors;
 
 /**
  * 主线程等待子线程执行完成再执行
- *
  */
 public class CountdownLatchTest {
     public static void main(String[] args) {
