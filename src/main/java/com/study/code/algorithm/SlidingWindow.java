@@ -1,4 +1,4 @@
-package com.study.code.designPatterns;
+package com.study.code.algorithm;
 
 import java.util.HashMap;
 
