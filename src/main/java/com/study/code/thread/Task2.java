@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.*;
 /**
- * 将集合按指定数量分组，list中的元素被平均分配到n个集合中(平均分配给坐席)
+ * 将集合按指定数量分组，list中的元素被平均分配到n个集合中平均分配给坐席
  */
 public class Task2 {
     public void collectionElementsAreGroupedByAverage() {
