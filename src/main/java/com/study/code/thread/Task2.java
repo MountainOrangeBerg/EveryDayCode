@@ -9,6 +9,12 @@ import java.util.concurrent.*;
  * 将集合按指定数量分组，list中的元素被平均分配到n个集合中平均分配给坐席
  */
 public class Task2 {
+
+    public static void main(String[] args) {
+        Task2 task2 = new Task2();
+        task2.collectionElementsAreGroupedByAverage();
+    }
+
     public void collectionElementsAreGroupedByAverage() {
 
         // 开始时间
